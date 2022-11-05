@@ -8,7 +8,7 @@
 * 출발지가 정해지지 않았으므로 Floyd 사용
 
 ## Code
-```
+```Java
 import java.io.*;
 import java.util.Arrays;
 import java.util.StringTokenizer;
