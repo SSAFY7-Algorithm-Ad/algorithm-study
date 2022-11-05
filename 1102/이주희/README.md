@@ -9,7 +9,7 @@
 * 가장 적은 비용의 정점을 구하기 위해 PQ 사용
 
 ## Code
-```
+```Java
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
