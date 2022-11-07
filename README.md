@@ -40,7 +40,7 @@
 | 22/10/31 |  1956  |    운동    |    그래프    | <a href="/1031/윤일준/README.md">Code</a> | <a href="/1031/박태이/README.md">Code</a> | <a href="/1031/김강호/README.md">Code</a> | <a href="/1031/송예림/README.md">Code</a> | <a href="/1031/이주희/README.md">Code</a> |
 | 22/11/02 |  1753  |   최단경로   |    그래프    | <a href="/1102/윤일준/README.md">Code</a> | <a href="/1102/박태이/README.md">Code</a> |  <a href="/1102/김강호/README.md">Code</a> | <a href="/1102/송예림/README.md">Code</a> |  <a href="/1102/이주희/README.md">Code</a> |
 | 22/11/04 |  1916  | 최소비용 구하기 |    그래프    |  <a href="/1104/윤일준/README.md">Code</a>  | <a href="/1104/박태이/README.md">Code</a> |  | <a href="/1104/송예림/README.md">Code</a> | <a href="/1104/이주희/README.md">Code</a> |
-| 22/11/07 |        |          |           |                                        |                                        |  |  |  |
+| 22/11/07 | 13460  | 구슬 탈출 2  |     구현     |                                        | <a href="/1107/박태이/README.md">Code</a> |  |  |  |
 | 22/11/09 |        |          |           |                                        |                                        |  |  |  |
 | 22/11/11 |        |          |           |                                        |                                        |  |  |  |
 | 22/11/14 |        |          |           |                                        |                                        |  |  |  |
