@@ -4,7 +4,7 @@
 136ms, 14676KB
 
 ## 풀이 방법
-- dfs로 구현, pq 사용
+- bfs로 구현, pq 사용
 - compare 함수에서 어이없는 실수... (this.r, o.r)
 
 ## Code
