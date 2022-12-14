@@ -1,4 +1,4 @@
-# 📘 13460 (이주희)
+# 📘 1107 (이주희)
 
 ## 소요시간, 메모리
 <img width="90%" alt="image" src="https://user-images.githubusercontent.com/83942393/207598590-865b4cc4-5137-4cee-956e-2cd79f9e7448.png">
