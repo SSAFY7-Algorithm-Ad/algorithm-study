@@ -43,7 +43,7 @@
 | 22/11/07 | 13460  | 구슬 탈출 2  |     구현     |       | <a href="/1107/박태이/README.md">Code</a> | <a href="/1107/김강호/README.md">Code</a> |                                        |   <a href="/1107/이주희/README.md">Code</a> |
 | 22/11/09 |   2234     |    성곽      |    그래프       |      |            |  <a href="/1109/김강호/README.md">Code</a> |                                        |  <a href="/1109/이주희/README.md">Code</a> |
 | 22/11/11 |    14503    |   로봇청소기    |    구현     |           |                 | <a href="/1111/김강호/README.md">Code</a> | <a href="/1111/송예림/README.md">Code</a> | <a href="/1111/이주희/README.md">Code</a> |
-| 22/11/14 |    16234    |      인구이동    |     시뮬레이션      |           |               | <a href="/1114/김강호/README.md">Code</a> |                                        |  |
+| 22/11/14 |    16234    |      인구이동    |     시뮬레이션      |           |               | <a href="/1114/김강호/README.md">Code</a> |                                        | <a href="/1114/이주희/README.md">Code</a> |
 | 22/11/16 |    16236    |      아기 상어    |      구현     |                 |                 | <a href="/1116/김강호/README.md">Code</a> | <a href="/1116/송예림/README.md">Code</a> |  |
 | 22/11/16 |    14500    |      테트로미노    |      구현     |                 |                 | <a href="/1116/김강호/README_2.md">Code</a> |                                        |  |
 | 22/11/18 |   2448     |     별찍기 - 11     |      재귀     |                 |                | <a href="/1118/김강호/README.md">Code</a> |                                        |  <a href="/1118/이주희/README.md">Code</a> |
