@@ -58,8 +58,8 @@
 ## Member 👨🏻‍💻
 <table>
   <tr>
-    <td height="20px" align="center"><a href="https://github.com/J00HUI">
-      <img src="https://avatars.githubusercontent.com/J00HUI" width="100px"/> <br><br> 이주희 <br>(Back-End) </a> <br></td>
+    <td height="20px" align="center"><a href="https://github.com/joohee56">
+      <img src="https://avatars.githubusercontent.com/joohee56" width="100px"/> <br><br> 이주희 <br>(Back-End) </a> <br></td>
     <td height="20px" align="center"><a href="https://github.com/smileJune">
       <img src="https://avatars.githubusercontent.com/smileJune" width="100px"/> <br><br> 윤일준 <br>(Back-End) </a> <br></td>
     <td height="20px" align="center"><a href="https://github.com/ehoi-loveyourself">
